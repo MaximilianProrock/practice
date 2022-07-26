@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/DrawableMesh">
+        <file>VertexShader.vert</file>
+        <file>FragmentShader.frag</file>
+    </qresource>
+</RCC>
